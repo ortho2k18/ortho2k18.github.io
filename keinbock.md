@@ -1,4 +1,10 @@
-#Kienbock's Disease
+---
+layout: Kienbock's Disease
+author: Jayakrishna
+title: about
+comments: true
+---
+# Kienbock's Disease
 **Osteonecrosis of the Lunate**, possibly due to chronic stress or injury.  
 Associated with **Negative ulnar variance** – relative shortening of the ulna- causes stress overload (not yet proven)  
 
