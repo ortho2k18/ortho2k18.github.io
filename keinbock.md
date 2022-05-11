@@ -9,7 +9,7 @@ Ache and stiffness
 Tenderness localized over the lunate
 Later stages – limited and painful wrist movements
 
-3 Stages (Lichtman)
+# Stages (Lichtman)
 
 1.	Ischemia, no X Ray changes, visible on MRI
 2.	Trabecular necrosis, reactive new bone and increased density  (Sclerosis seen on Xray)
@@ -27,6 +27,7 @@ If there is **flattening** of the bone / Pain persists – surgical treatment
 -	**Shortening the radius**
 -	Shortening of capitulum
 -	(If ulnar variance neutral) – tilt the radius radially
+
 If has collapsed
 - Wrist neurectomy – reduce pain, while preserving movement
 - Lunate prosthesis – poor outcome – particle shedding – synovitis
@@ -34,7 +35,7 @@ If has collapsed
 - For intolerable pain and severely limited movement – radiocarpal arthodesis – stable and pain free wrist
 - Wrist replacement surgery
 
-#DDs
+# DDs
 1.	**ulnar impaction syndrome**  (sclerosis/signal change is at the proximal ulnar aspect of lunate, positive ulnar variance, ulnar head impacts on the carpal bones).
 2.	**Preiser’s disease** (scaphoid undergoes spontaneous avascular necrosis)
 
