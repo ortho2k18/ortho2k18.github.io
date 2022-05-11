@@ -1,7 +1,7 @@
 ---
-layout: Kienbock's Disease
+layout: page
 author: Jayakrishna
-title: about
+title: Kienbock's Disease
 comments: true
 ---
 # Kienbock's Disease
