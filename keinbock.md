@@ -1,7 +1,8 @@
+#Kienbock's Disease
 **Osteonecrosis of the Lunate**, possibly due to chronic stress or injury.  
 Associated with **Negative ulnar variance** – relative shortening of the ulna- causes stress overload (not yet proven)  
 
-# Clinical features 
+## Clinical features 
 
 Typically occurs in **young adult men, in the dominant hand**  
 Ache and stiffness  
@@ -9,7 +10,7 @@ Ache and stiffness
 Tenderness localized over the lunate  
 Later stages – limited and painful wrist movements  
 
-# Stages (Lichtman)
+## Stages (Lichtman)
 
 1.	Ischemia, no X Ray changes, visible on MRI
 2.	Trabecular necrosis, reactive new bone and increased density  (Sclerosis seen on Xray)
@@ -18,7 +19,7 @@ Later stages – limited and painful wrist movements
  b.	**Collapse** of bone  
 4.	Radiocarpal congruence disrupted, Secondary **osteoarthritis**  
 
-# Management
+## Management
 
 Initially, **Splintage of wrist** – for 6 to 12 weeks – reduces pain and also stress  
 If there is **flattening** of the bone / Pain persists – surgical treatment
@@ -35,7 +36,7 @@ If has collapsed
 - For intolerable pain and severely limited movement – radiocarpal arthodesis – stable and pain free wrist
 - Wrist replacement surgery
 
-# DDs
+## DDs
 1.	**ulnar impaction syndrome**  (sclerosis/signal change is at the proximal ulnar aspect of lunate, positive ulnar variance, ulnar head impacts on the carpal bones).
 2.	**Preiser’s disease** (scaphoid undergoes spontaneous avascular necrosis).
 
