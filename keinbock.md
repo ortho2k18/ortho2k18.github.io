@@ -37,6 +37,6 @@ If has collapsed
 
 # DDs
 1.	**ulnar impaction syndrome**  (sclerosis/signal change is at the proximal ulnar aspect of lunate, positive ulnar variance, ulnar head impacts on the carpal bones).
-2.	**Preiser’s disease** (scaphoid undergoes spontaneous avascular necrosis)
+2.	**Preiser’s disease** (scaphoid undergoes spontaneous avascular necrosis).
 
 
